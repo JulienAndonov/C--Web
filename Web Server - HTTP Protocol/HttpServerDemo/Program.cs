@@ -14,15 +14,11 @@ namespace HttpServerDemo
         {
             TcpListener tcpListener = new TcpListener(IPAddress.Any, 1234);
             tcpListener.Start();
-            //byte[] imageAsBytes = File.ReadAllBytes("picture.jpg");
-
 
             while (true)
             {
                 TcpClient tcpClient = await tcpListener.AcceptTcpClientAsync();
-#pragma warning disable CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
-                Task.Run(() =>  ProcessClientAsync(tcpClient));
-#pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
+                await ProcessClientAsync(tcpClient);
 
             }
         }
@@ -45,7 +41,6 @@ namespace HttpServerDemo
 
                 byte[] responseBytes = Encoding.UTF8.GetBytes(response);
                 await networkStream.WriteAsync(responseBytes, 0, responseBytes.Length);
-                // await networkStream.WriteAsync(imageAsBytes, 0, imageAsBytes.Length);
                 Console.WriteLine(request);
                 Console.WriteLine(new string('=', 60));
             }

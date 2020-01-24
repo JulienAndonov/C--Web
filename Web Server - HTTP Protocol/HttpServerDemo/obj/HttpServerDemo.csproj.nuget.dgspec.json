@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\HttpServerDemo\\HttpServerDemo.csproj": {}
+    "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HttpServerDemo\\HttpServerDemo.csproj": {}
   },
   "projects": {
-    "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\HttpServerDemo\\HttpServerDemo.csproj": {
+    "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HttpServerDemo\\HttpServerDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\HttpServerDemo\\HttpServerDemo.csproj",
+        "projectUniqueName": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HttpServerDemo\\HttpServerDemo.csproj",
         "projectName": "HttpServerDemo",
-        "projectPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\HttpServerDemo\\HttpServerDemo.csproj",
+        "projectPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HttpServerDemo\\HttpServerDemo.csproj",
         "packagesPath": "C:\\Users\\andonovj\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\HttpServerDemo\\obj\\",
+        "outputPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HttpServerDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

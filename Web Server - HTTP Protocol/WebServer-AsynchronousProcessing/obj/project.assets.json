@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\WebServer-AsynchronousProcessing\\WebServer-AsynchronousProcessing.csproj",
+      "projectUniqueName": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\WebServer-AsynchronousProcessing\\WebServer-AsynchronousProcessing.csproj",
       "projectName": "WebServer-AsynchronousProcessing",
-      "projectPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\WebServer-AsynchronousProcessing\\WebServer-AsynchronousProcessing.csproj",
+      "projectPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\WebServer-AsynchronousProcessing\\WebServer-AsynchronousProcessing.csproj",
       "packagesPath": "C:\\Users\\andonovj\\.nuget\\packages\\",
-      "outputPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\HTTPClient\\HttpClient\\WebServer-AsynchronousProcessing\\obj\\",
+      "outputPath": "D:\\University\\SoftUni\\C#Web\\Web Server - HTTP Protocol\\WebServer-AsynchronousProcessing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
