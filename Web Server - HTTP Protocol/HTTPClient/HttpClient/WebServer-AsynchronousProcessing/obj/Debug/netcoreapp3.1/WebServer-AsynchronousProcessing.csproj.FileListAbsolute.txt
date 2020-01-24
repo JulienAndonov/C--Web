@@ -1,0 +1,11 @@
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\bin\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.exe
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\bin\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.deps.json
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\bin\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.runtimeconfig.json
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\bin\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.runtimeconfig.dev.json
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\bin\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.dll
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\bin\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.pdb
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\obj\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.csprojAssemblyReference.cache
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\obj\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.AssemblyInfoInputs.cache
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\obj\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.AssemblyInfo.cs
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\obj\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.dll
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\WebServer-AsynchronousProcessing\obj\Debug\netcoreapp3.1\WebServer-AsynchronousProcessing.pdb

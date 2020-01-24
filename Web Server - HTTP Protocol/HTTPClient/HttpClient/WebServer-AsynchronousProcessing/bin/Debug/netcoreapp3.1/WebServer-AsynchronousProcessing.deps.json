@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebServer-AsynchronousProcessing/1.0.0": {
+        "runtime": {
+          "WebServer-AsynchronousProcessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebServer-AsynchronousProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

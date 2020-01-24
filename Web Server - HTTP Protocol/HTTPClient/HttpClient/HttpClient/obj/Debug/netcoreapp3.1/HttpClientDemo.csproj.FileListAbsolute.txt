@@ -1,0 +1,11 @@
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientDemo.exe
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientDemo.deps.json
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientDemo.runtimeconfig.json
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientDemo.runtimeconfig.dev.json
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientDemo.dll
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientDemo.pdb
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientDemo.AssemblyInfoInputs.cache
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientDemo.AssemblyInfo.cs
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientDemo.dll
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientDemo.pdb
+D:\University\SoftUni\C#Web\Web Server - HTTP Protocol\HTTPClient\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientDemo.csprojAssemblyReference.cache
